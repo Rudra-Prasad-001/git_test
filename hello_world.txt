@@ -1,0 +1,2 @@
+ok text file for simple experiments in github using linux terminal
+okk
